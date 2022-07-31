@@ -1,0 +1,32 @@
+select {
+  width: 65%;
+  height: 100px;
+  background-color: rgb(0, 183, 255);
+  text-align: center;
+  font-size: 16px;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.container {
+  margin: 0 auto;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.row {
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 100%;
+  align-items: center;
+}
+
+p {
+  /* margin-left: 200px; */
+  display: flexbox;
+  text-align: center;
+  font: weight 600px;
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+}
